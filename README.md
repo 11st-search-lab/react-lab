@@ -22,7 +22,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
         <tr>
             <td> 1 </td>
             <td> 10.22(금) </td>
-            <td> - </td>
+            <td> useEffect </td>
             <td>  
                 김다미: <a href="">-</a>
             </td>
@@ -30,6 +30,22 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
         <tr>
             <td> 1 </td>
             <td> 10.22(금) </td>
+            <td> useState </td>
+            <td>  
+                이호찬: <a href="">-</a>
+            </td>
+        </tr>
+          <tr>
+            <td> 2 </td>
+            <td> 10.29(금) </td>
+            <td> Context API </td>
+            <td>  
+                김다미: <a href="">-</a>
+            </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> 10.29(금) </td>
             <td> - </td>
             <td>  
                 이호찬: <a href="">-</a>
