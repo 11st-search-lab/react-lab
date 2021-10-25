@@ -32,7 +32,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 10.22(금) </td>
             <td> Introducing JSX </td>
             <td>  
-                이호찬: <a href="./docs/Hello World.md">Hello World</a>, <a href="./docs/Introducing_JSX.md">Introducing JSX</a>
+                이호찬: <a href="./docs/Hello_World.md">Hello World</a>, <a href="./docs/Introducing_JSX.md">Introducing JSX</a>
             </td>
         </tr>
           <tr>
