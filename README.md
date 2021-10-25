@@ -30,7 +30,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
         <tr>
             <td> 1 </td>
             <td> 10.22(금) </td>
-            <td> useState </td>
+            <td> - </td>
             <td>  
                 이호찬: <a href="">-</a>
             </td>
@@ -46,9 +46,9 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
         <tr>
             <td> 2 </td>
             <td> 10.29(금) </td>
-            <td> - </td>
+            <td> Using the State Hook </td>
             <td>  
-                이호찬: <a href="">-</a>
+                이호찬: <a href="./docs/Using_the_State_Hook.md">Using the State Hook</a>
             </td>
         </tr>
     </tbody>
