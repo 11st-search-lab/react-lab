@@ -40,7 +40,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 10.29(금) </td>
             <td> Context API </td>
             <td>  
-                김다미: <a href="">-</a>
+                김다미: <a href="https://github.com/11st-search-lab/react-lab/blob/master/docs/Context.md">Context</a>
             </td>
         </tr>
         <tr>
