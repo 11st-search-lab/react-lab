@@ -24,7 +24,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 10.22(금) </td>
             <td> useEffect </td>
             <td>  
-                김다미: <a href="">-</a>
+                김다미: <a href="https://github.com/11st-search-lab/react-lab/blob/master/docs/Using_the_Effect_Hook.md">Using the Effect Hook</a>
             </td>
         </tr>
         <tr>
