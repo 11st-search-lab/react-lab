@@ -35,7 +35,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
                 이호찬: <a href="./docs/Hello_World.md">Hello World</a>, <a href="./docs/Introducing_JSX.md">Introducing JSX</a>
             </td>
         </tr>
-          <tr>
+        <tr>
             <td> 2 </td>
             <td> 10.29(금) </td>
             <td> Context API </td>
@@ -49,6 +49,22 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> Using the State Hook </td>
             <td>  
                 이호찬: <a href="./docs/Using_the_State_Hook.md">Using the State Hook</a>
+            </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> 11.05(금) </td>
+            <td> Rendering Elements, Reconciliation </td>
+            <td>  
+                김다미: <a href="#">Rendering Elements</a>, <a href="#">Reconciliation</a>
+            </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> 11.05(금) </td>
+            <td> Components and Props, JSX In Depth </td>
+            <td>  
+                이호찬: <a href="#">Components and Props</a>, <a href="#">JSX In Depth</a>
             </td>
         </tr>
     </tbody>
