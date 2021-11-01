@@ -64,7 +64,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 11.05(금) </td>
             <td> Components and Props, JSX In Depth </td>
             <td>  
-                이호찬: <a href="#">Components and Props</a>, <a href="#">JSX In Depth</a>
+                이호찬: <a href="./Components_and_Props.md">Components and Props</a>, <a href="#">JSX In Depth</a>
             </td>
         </tr>
     </tbody>
