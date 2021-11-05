@@ -1,4 +1,5 @@
 # Using the State Hook
+https://ko.reactjs.org/docs/hooks-state.html
 
 > Hook은 React 16.8버전에 새로 추가되었다. Hook은 클래스 컴포넌트를 작성하지 않아도 state와 같은 특징들을 사용할 수 있다.
 
