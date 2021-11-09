@@ -80,7 +80,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 11.12(금) </td>
             <td> Handling Events, ___ </td>
             <td>  
-                이호찬: <a href="#">Handlin Events</a>, <a href="#">___</a>
+                이호찬: <a href="./docs/Handling_Events.md">Handlin Events</a>, <a href="#">___</a>
             </td>
         </tr>
     </tbody>
