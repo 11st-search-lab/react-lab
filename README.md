@@ -80,7 +80,23 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 11.12(금) </td>
             <td> Handling Events, Render Props </td>
             <td>  
-                이호찬: <a href="./docs/Handling_Events.md">Handlin Events</a>, <a href="./docs/Render_Props.md">Render Props</a>
+                이호찬: <a href="./docs/Handling_Events.md">Handling Events</a>, <a href="./docs/Render_Props.md">Render Props</a>
+            </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> 11.12(금) </td>
+            <td> Lists And Keys, Forwarding Refs </td>
+            <td>  
+                김다미: <a href="#">_</a>, <a href="#">___</a>
+            </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> 11.12(금) </td>
+            <td> Conditional Rendering, Strict Mode </td>
+            <td>  
+                이호찬: <a href="./docs/Handling_Events.md">_</a>, <a href="./docs/Render_Props.md">_</a>
             </td>
         </tr>
     </tbody>
