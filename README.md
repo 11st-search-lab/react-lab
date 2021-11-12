@@ -78,9 +78,9 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
         <tr>
             <td> 2 </td>
             <td> 11.12(금) </td>
-            <td> Handling Events, ___ </td>
+            <td> Handling Events, Render Props </td>
             <td>  
-                이호찬: <a href="./docs/Handling_Events.md">Handlin Events</a>, <a href="#">___</a>
+                이호찬: <a href="./docs/Handling_Events.md">Handlin Events</a>, <a href="./docs/Render_Props.md">Render Props</a>
             </td>
         </tr>
     </tbody>
