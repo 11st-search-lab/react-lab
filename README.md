@@ -96,7 +96,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 11.12(금) </td>
             <td> Conditional Rendering, Strict Mode </td>
             <td>  
-                이호찬: <a href="./docs/Handling_Events.md">_</a>, <a href="./docs/Render_Props.md">_</a>
+                이호찬: <a href="./docs/Conditional_Rendering.md">Conditional Rendering</a>, <a href="./docs/Strict_Mode.md">_</a>
             </td>
         </tr>
     </tbody>
