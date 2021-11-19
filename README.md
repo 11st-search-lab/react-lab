@@ -56,7 +56,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 11.05(금) </td>
             <td> Rendering Elements, Reconciliation </td>
             <td>  
-                김다미: <a href="#">Rendering Elements</a>, <a href="#">Reconciliation</a>
+                김다미: <a href="./docs/rendering-elements.md">Rendering Elements</a>, <a href="./docs/reconciliation.md">Reconciliation</a>
             </td>
         </tr>
         <tr>
@@ -70,9 +70,9 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
         <tr>
             <td> 2 </td>
             <td> 11.12(금) </td>
-            <td> State and Lifecycle, ___ </td>
-            <td>  
-                김다미: <a href="#">State and Lifecycle</a>, <a href="#">___</a>
+            <td> State and Lifecycle, Code Splitting </td>
+            <td>
+                김다미: <a href="./docs/State_And_Lifecycle.md">State and Lifecycle</a>, <a href="./docs/Code_Splitting.md">Code Splitting</a>
             </td>
         </tr>
         <tr>
@@ -96,7 +96,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 11.12(금) </td>
             <td> Conditional Rendering, Strict Mode </td>
             <td>  
-                이호찬: <a href="./docs/Handling_Events.md">_</a>, <a href="./docs/Render_Props.md">_</a>
+                이호찬: <a href="./docs/Conditional_Rendering.md">Conditional Rendering</a>, <a href="./docs/Strict_Mode.md">Strict Mode</a>
             </td>
         </tr>
     </tbody>
