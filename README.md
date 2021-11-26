@@ -28,7 +28,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             </td>
         </tr>
         <tr>
-            <td> 1 </td>
+            <td> 2 </td>
             <td> 10.22(금) </td>
             <td> Introducing JSX </td>
             <td>  
@@ -36,7 +36,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             </td>
         </tr>
         <tr>
-            <td> 2 </td>
+            <td> 3 </td>
             <td> 10.29(금) </td>
             <td> Context API </td>
             <td>  
@@ -44,7 +44,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             </td>
         </tr>
         <tr>
-            <td> 2 </td>
+            <td> 4 </td>
             <td> 10.29(금) </td>
             <td> Using the State Hook </td>
             <td>  
@@ -52,7 +52,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             </td>
         </tr>
         <tr>
-            <td> 2 </td>
+            <td> 5 </td>
             <td> 11.05(금) </td>
             <td> Rendering Elements, Reconciliation </td>
             <td>  
@@ -60,7 +60,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             </td>
         </tr>
         <tr>
-            <td> 2 </td>
+            <td> 6 </td>
             <td> 11.05(금) </td>
             <td> Components and Props, JSX In Depth </td>
             <td>  
@@ -68,7 +68,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             </td>
         </tr>
         <tr>
-            <td> 2 </td>
+            <td> 7 </td>
             <td> 11.12(금) </td>
             <td> State and Lifecycle, Code Splitting </td>
             <td>
@@ -76,7 +76,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             </td>
         </tr>
         <tr>
-            <td> 2 </td>
+            <td> 8 </td>
             <td> 11.12(금) </td>
             <td> Handling Events, Render Props </td>
             <td>  
@@ -84,19 +84,37 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             </td>
         </tr>
         <tr>
-            <td> 2 </td>
-            <td> 11.12(금) </td>
+            <td> 9 </td>
+            <td> 11.19(금) </td>
             <td> Lists And Keys, Forwarding Refs </td>
             <td>  
-                김다미: <a href="#">_</a>, <a href="#">___</a>
+                김다미: <a href="./docs/Lists_And_Keys.md">Lists And Keys</a>, 
+                <a href="./docs/Forwarding_Refs.md">Forwarding Refs</a>
             </td>
         </tr>
         <tr>
-            <td> 2 </td>
-            <td> 11.12(금) </td>
+            <td> 10 </td>
+            <td> 11.19(금) </td>
             <td> Conditional Rendering, Strict Mode </td>
             <td>  
                 이호찬: <a href="./docs/Conditional_Rendering.md">Conditional Rendering</a>, <a href="./docs/Strict_Mode.md">Strict Mode</a>
+            </td>
+        </tr>
+        <tr>
+            <td> 11 </td>
+            <td> 11.26(금) </td>
+            <td> Lifting State Up, Refs And The Dom</td>
+            <td>  
+                김다미: <a href="#">Lifting State Up</a>, 
+                <a href="#">Refs And The Dom</a>
+            </td>
+        </tr>
+        <tr>
+            <td> 12 </td>
+            <td> 11.26(금) </td>
+            <td> Form, Web Components</td>
+            <td>  
+                이호찬: <a href="#">Form</a>, <a href="#">Web Components</a>
             </td>
         </tr>
     </tbody>
