@@ -111,10 +111,27 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
         </tr>
         <tr>
             <td> 12 </td>
-            <td> 11.26(금) </td>
+            <td> 12.03(금) </td>
             <td> Form, Web Components</td>
             <td>  
-                이호찬: <a href="#">Form</a>, <a href="#">Web Components</a>
+                이호찬: <a href="./docs/Form.md">Form</a>, <a href="./docs/Web-Components.md">Web Components</a>
+            </td>
+        </tr>
+        <tr>
+            <td> 13 </td>
+            <td> 12.10(금) </td>
+            <td> _ </td>
+            <td>  
+                김다미: <a href="#">_</a>, 
+                <a href="#">_</a>
+            </td>
+        </tr>
+        <tr>
+            <td> 14 </td>
+            <td> 12.10(금) </td>
+            <td> _ </td>
+            <td>  
+                이호찬: <a href="#">_</a>, <a href="#">_</a>
             </td>
         </tr>
     </tbody>
