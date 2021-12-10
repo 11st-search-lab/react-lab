@@ -105,7 +105,7 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
             <td> 11.26(금) </td>
             <td> Lifting State Up, Refs And The Dom</td>
             <td>  
-                김다미: <a href="#">Lifting State Up</a>, 
+                김다미: <a href="./docs/Lifting_State_Up_And_Props.md">Lifting State Up</a>, 
                 <a href="#">Refs And The Dom</a>
             </td>
         </tr>
@@ -120,10 +120,10 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
         <tr>
             <td> 13 </td>
             <td> 12.10(금) </td>
-            <td> _ </td>
+            <td> Portals, Thinking in React</td>
             <td>  
-                김다미: <a href="#">_</a>, 
-                <a href="#">_</a>
+                김다미: <a href="./docs/Portals.md">Portals</a>, 
+                <a href="./docs/Thinking_In_React.md">Thinking in React</a>
             </td>
         </tr>
         <tr>
