@@ -129,9 +129,9 @@ React 공식 문서를 읽고 정리해나가는 스터디입니다.🌱
         <tr>
             <td> 14 </td>
             <td> 12.10(금) </td>
-            <td> _ </td>
+            <td> composition vs inheritance, Fragment </td>
             <td>  
-                이호찬: <a href="#">_</a>, <a href="#">_</a>
+                이호찬: <a href="./docs/Composition_vs_inheritance.md">composition vs inheritance</a>, <a href="./docs/Fragments.md">Fragments</a>
             </td>
         </tr>
     </tbody>
