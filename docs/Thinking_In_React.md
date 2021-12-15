@@ -12,7 +12,7 @@ JSON API와 목업을 디자이너로부터 받았다고 가정하자.
 
 JSON API는 아래와 같은 데이터를 반환한다.
 
-```json
+```js
 [
   {category: "Sporting Goods", price: "$49.99", stocked: true, name: "Football"},
   {category: "Sporting Goods", price: "$9.99", stocked: true, name: "Baseball"},
